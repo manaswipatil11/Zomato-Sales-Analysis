@@ -1,4 +1,7 @@
+
 # Zomato-Sales-Analysis
+
+![ZomatoSalesDashboard](https://github.com/user-attachments/assets/e6bf94af-f433-4f3a-afec-197cd6bc5ca9)
 
 This Power BI project aims to uncover actionable insights from Zomato's sales data to optimize business strategies and drive growth. By leveraging the robust capabilities of Power BI, we will analyze key performance indicators (KPIs), identify trends, and visualize complex data relationships to provide a comprehensive understanding of sales patterns.
 
